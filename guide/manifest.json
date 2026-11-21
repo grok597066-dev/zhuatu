@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "label": "圖解安裝說明（首頁導覽版，對應 App v0.3.3 以後）",
+  "updated": "2026-11-21",
+  "pdf": {
+    "file": "zhuatu_guide.pdf",
+    "title": "抓圖_安裝說明_圖解.pdf"
+  },
+  "pages": [
+    {
+      "file": "00_cover.png",
+      "title": "封面",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "file": "01_home_tour.png",
+      "title": "首頁導覽",
+      "width": 1080,
+      "height": 7680
+    },
+    {
+      "file": "02_step1_download.png",
+      "title": "第 1 步　下載 APK",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "file": "03_step2_allow_install.png",
+      "title": "第 2 步　允許安裝",
+      "width": 1080,
+      "height": 3840
+    },
+    {
+      "file": "04_step3_accessibility.png",
+      "title": "第 3 步　開啟無障礙",
+      "width": 1080,
+      "height": 3840
+    },
+    {
+      "file": "05_step4_autostart_battery.png",
+      "title": "第 4 步　自啟動與電池",
+      "width": 1080,
+      "height": 3840
+    },
+    {
+      "file": "06_step5_learn_key.png",
+      "title": "第 5 步　學習按鍵",
+      "width": 1080,
+      "height": 3840
+    },
+    {
+      "file": "07_step6_switches.png",
+      "title": "第 6 步　截圖／錄影開關",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "file": "08_step7_test.png",
+      "title": "第 7 步　測試",
+      "width": 1080,
+      "height": 3840
+    },
+    {
+      "file": "09_step8_update.png",
+      "title": "第 8 步　自動更新",
+      "width": 1080,
+      "height": 3840
+    },
+    {
+      "file": "10_step9_faq.png",
+      "title": "第 9 步　常見問題",
+      "width": 1080,
+      "height": 5760
+    }
+  ]
+}
