@@ -1,77 +1,126 @@
 {
-  "version": 1,
-  "label": "圖解安裝說明（首頁導覽版，對應 App v0.3.3 以後）",
-  "updated": "2026-11-21",
+  "version": 2,
+  "guide_version": "v0.3.4",
+  "base_url": "https://raw.githubusercontent.com/grok597066-dev/zhuatu/main/guide/",
   "pdf": {
     "file": "zhuatu_guide.pdf",
     "title": "抓圖_安裝說明_圖解.pdf"
   },
+  "page_size": [
+    1080,
+    1920
+  ],
+  "total_pages": 23,
   "pages": [
     {
+      "order": 0,
       "file": "00_cover.png",
-      "title": "封面",
+      "title_zh": "封面",
+      "pages": 1,
       "width": 1080,
-      "height": 1920
+      "height": 1920,
+      "bytes": 175548,
+      "title": "封面"
     },
     {
+      "order": 1,
       "file": "01_home_tour.png",
-      "title": "首頁導覽",
+      "title_zh": "首頁導覽",
+      "pages": 4,
       "width": 1080,
-      "height": 7680
+      "height": 7680,
+      "bytes": 1013975,
+      "title": "首頁導覽"
     },
     {
+      "order": 2,
       "file": "02_step1_download.png",
-      "title": "第 1 步　下載 APK",
+      "title_zh": "第1步 下載APK",
+      "pages": 1,
       "width": 1080,
-      "height": 1920
+      "height": 1920,
+      "bytes": 161184,
+      "title": "第1步 下載APK"
     },
     {
+      "order": 3,
       "file": "03_step2_allow_install.png",
-      "title": "第 2 步　允許安裝",
+      "title_zh": "第2步 允許安裝",
+      "pages": 2,
       "width": 1080,
-      "height": 3840
+      "height": 3840,
+      "bytes": 428479,
+      "title": "第2步 允許安裝"
     },
     {
+      "order": 4,
       "file": "04_step3_accessibility.png",
-      "title": "第 3 步　開啟無障礙",
+      "title_zh": "第3步 開啟無障礙",
+      "pages": 2,
       "width": 1080,
-      "height": 3840
+      "height": 3840,
+      "bytes": 350513,
+      "title": "第3步 開啟無障礙"
     },
     {
+      "order": 5,
       "file": "05_step4_autostart_battery.png",
-      "title": "第 4 步　自啟動與電池",
+      "title_zh": "第4步 自啟動與電池",
+      "pages": 2,
       "width": 1080,
-      "height": 3840
+      "height": 3840,
+      "bytes": 428428,
+      "title": "第4步 自啟動與電池"
     },
     {
+      "order": 6,
       "file": "06_step5_learn_key.png",
-      "title": "第 5 步　學習按鍵",
+      "title_zh": "第5步 學習按鍵",
+      "pages": 2,
       "width": 1080,
-      "height": 3840
+      "height": 3840,
+      "bytes": 381050,
+      "title": "第5步 學習按鍵"
     },
     {
+      "order": 7,
       "file": "07_step6_switches.png",
-      "title": "第 6 步　截圖／錄影開關",
+      "title_zh": "第6步 截圖錄影開關",
+      "pages": 1,
       "width": 1080,
-      "height": 1920
+      "height": 1920,
+      "bytes": 199912,
+      "title": "第6步 截圖錄影開關"
     },
     {
+      "order": 8,
       "file": "08_step7_test.png",
-      "title": "第 7 步　測試",
+      "title_zh": "第7步 測試",
+      "pages": 2,
       "width": 1080,
-      "height": 3840
+      "height": 3840,
+      "bytes": 383842,
+      "title": "第7步 測試"
     },
     {
+      "order": 9,
       "file": "09_step8_update.png",
-      "title": "第 8 步　自動更新",
+      "title_zh": "第8步 自動更新",
+      "pages": 2,
       "width": 1080,
-      "height": 3840
+      "height": 3840,
+      "bytes": 449011,
+      "title": "第8步 自動更新"
     },
     {
+      "order": 10,
       "file": "10_step9_faq.png",
-      "title": "第 9 步　常見問題",
+      "title_zh": "第9步 常見問題",
+      "pages": 4,
       "width": 1080,
-      "height": 5760
+      "height": 7680,
+      "bytes": 919971,
+      "title": "第9步 常見問題"
     }
   ]
 }

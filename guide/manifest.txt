@@ -1,0 +1,14 @@
+# 抓圖 使用教學 v0.3.4（manifest version 2）  base: https://raw.githubusercontent.com/grok597066-dev/zhuatu/main/guide/
+# order	file	title_zh	pages	height
+00	00_cover.png	封面	1	1920
+01	01_home_tour.png	首頁導覽	4	7680
+02	02_step1_download.png	第1步 下載APK	1	1920
+03	03_step2_allow_install.png	第2步 允許安裝	2	3840
+04	04_step3_accessibility.png	第3步 開啟無障礙	2	3840
+05	05_step4_autostart_battery.png	第4步 自啟動與電池	2	3840
+06	06_step5_learn_key.png	第5步 學習按鍵	2	3840
+07	07_step6_switches.png	第6步 截圖錄影開關	1	1920
+08	08_step7_test.png	第7步 測試	2	3840
+09	09_step8_update.png	第8步 自動更新	2	3840
+10	10_step9_faq.png	第9步 常見問題	4	7680
+pdf	zhuatu_guide.pdf	整份圖解 PDF	23	-
