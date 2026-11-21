@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "guide_version": "v0.3.4",
+  "version": 4,
+  "guide_version": "v0.3.6",
   "base_url": "https://raw.githubusercontent.com/grok597066-dev/zhuatu/main/guide/",
   "pdf": {
     "file": "zhuatu_guide.pdf",
@@ -19,7 +19,7 @@
       "pages": 1,
       "width": 1080,
       "height": 1920,
-      "bytes": 175548,
+      "bytes": 169808,
       "title": "封面"
     },
     {
@@ -29,7 +29,7 @@
       "pages": 4,
       "width": 1080,
       "height": 7680,
-      "bytes": 1013975,
+      "bytes": 1018753,
       "title": "首頁導覽"
     },
     {
@@ -39,7 +39,7 @@
       "pages": 1,
       "width": 1080,
       "height": 1920,
-      "bytes": 161184,
+      "bytes": 175658,
       "title": "第1步 下載APK"
     },
     {
@@ -59,7 +59,7 @@
       "pages": 2,
       "width": 1080,
       "height": 3840,
-      "bytes": 350513,
+      "bytes": 338324,
       "title": "第3步 開啟無障礙"
     },
     {
@@ -69,7 +69,7 @@
       "pages": 2,
       "width": 1080,
       "height": 3840,
-      "bytes": 428428,
+      "bytes": 428432,
       "title": "第4步 自啟動與電池"
     },
     {
@@ -79,7 +79,7 @@
       "pages": 2,
       "width": 1080,
       "height": 3840,
-      "bytes": 381050,
+      "bytes": 381207,
       "title": "第5步 學習按鍵"
     },
     {
@@ -89,7 +89,7 @@
       "pages": 1,
       "width": 1080,
       "height": 1920,
-      "bytes": 199912,
+      "bytes": 200414,
       "title": "第6步 截圖錄影開關"
     },
     {
@@ -99,7 +99,7 @@
       "pages": 2,
       "width": 1080,
       "height": 3840,
-      "bytes": 383842,
+      "bytes": 384016,
       "title": "第7步 測試"
     },
     {
@@ -109,7 +109,7 @@
       "pages": 2,
       "width": 1080,
       "height": 3840,
-      "bytes": 449011,
+      "bytes": 475121,
       "title": "第8步 自動更新"
     },
     {
@@ -119,7 +119,7 @@
       "pages": 4,
       "width": 1080,
       "height": 7680,
-      "bytes": 919971,
+      "bytes": 920397,
       "title": "第9步 常見問題"
     }
   ]

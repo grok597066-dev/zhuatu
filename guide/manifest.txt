@@ -1,4 +1,4 @@
-# 抓圖 使用教學 v0.3.4（manifest version 2）  base: https://raw.githubusercontent.com/grok597066-dev/zhuatu/main/guide/
+# 抓圖 使用教學 v0.3.6（manifest version 4）  base: https://raw.githubusercontent.com/grok597066-dev/zhuatu/main/guide/
 # order	file	title_zh	pages	height
 00	00_cover.png	封面	1	1920
 01	01_home_tour.png	首頁導覽	4	7680
